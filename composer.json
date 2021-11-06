@@ -1,0 +1,5 @@
+{
+    "require": {
+        "gallib/laravel-short-url": "1.6.0"
+    }
+}
